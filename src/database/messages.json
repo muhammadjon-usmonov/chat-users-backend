@@ -1,0 +1,115 @@
+[
+    {
+        "userId": 1,
+        "type": "text",
+        "message": "nma gap",
+        "date": "05.06.2022",
+        "time": "17:37",
+        "messageId": 1
+    },
+    {
+        "userId": 1,
+        "type": "text",
+        "message": "tinch",
+        "date": "05.06.2022",
+        "time": "17:41",
+        "messageId": 2
+    },
+    {
+        "userId": "1",
+        "type": "file",
+        "file": {
+            "view": "http://localhost:3000/view/1654435840631Безназвания.jpg",
+            "download": "http://localhost:3000/download/1654435840631Безназвания.jpg",
+            "name": "Безназвания.jpg"
+        },
+        "date": "05.06.2022",
+        "time": "18:30",
+        "messageId": 3
+    },
+    {
+        "userId": "2",
+        "message": "ferferg",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "18:18",
+        "messageId": 4
+    },
+    {
+        "userId": "2",
+        "message": "erferge",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "18:24",
+        "messageId": 5
+    },
+    {
+        "userId": "2",
+        "message": "salom",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "18:28",
+        "messageId": 6
+    },
+    {
+        "userId": "1",
+        "message": "salom",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "18:30",
+        "messageId": 7
+    },
+    {
+        "userId": "2",
+        "message": "rbrtr",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "18:42",
+        "messageId": 8
+    },
+    {
+        "userId": "2",
+        "message": "",
+        "file": {
+            "view": "http://localhost:3000/view/1654523219525pexels-photo-112460.jpeg",
+            "download": "http://localhost:3000/download/1654523219525pexels-photo-112460.jpeg",
+            "name": "pexels-photo-112460.jpeg"
+        },
+        "type": "file",
+        "date": "06.06.2022",
+        "time": "18:46",
+        "messageId": 9
+    },
+    {
+        "userId": "6",
+        "message": "qale",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "18:49",
+        "messageId": 10
+    },
+    {
+        "userId": "7",
+        "message": "salom narod",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "19:03",
+        "messageId": 11
+    },
+    {
+        "userId": "6",
+        "message": "nma gap khaliluloh",
+        "type": "text",
+        "date": "06.06.2022",
+        "time": "19:03",
+        "messageId": 12
+    },
+    {
+        "userId": "8",
+        "message": "salom",
+        "type": "text",
+        "date": "07.06.2022",
+        "time": "19:01",
+        "messageId": 13
+    }
+]

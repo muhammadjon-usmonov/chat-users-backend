@@ -1,0 +1,58 @@
+[
+    {
+        "username": "said",
+        "email": "said@gmail.com",
+        "password": "08e667ee9093dc489c80c2eb6fa9aebe75e5e5e5c9b92e777586357ca43625a4",
+        "avatar": "http://localhost:3000/ava/1654434941748images.jpg",
+        "userId": 1
+    },
+    {
+        "username": "ali",
+        "email": "ali@gmail.com",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "avatar": "http://localhost:3000/ava/simple.jpg",
+        "userId": 2
+    },
+    {
+        "username": "salim",
+        "email": "salim@gmail.com",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "avatar": "http://localhost:3000/ava/simple.jpg",
+        "userId": 3
+    },
+    {
+        "username": "muhammad",
+        "email": "muxammad@gmail.com",
+        "password": "a7b87b5e3ca8d571f3d2781a21d0454f5092a96f0880bcdb7b6d31997b85af0d",
+        "avatar": "http://localhost:3000/ava/1654439598983images(2).jpg",
+        "userId": 4
+    },
+    {
+        "username": "Diyor",
+        "email": "diyor@gmail.com",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "avatar": "http://localhost:3000/ava/1654446452836images(1).jpg",
+        "userId": 5
+    },
+    {
+        "username": "muhammadaziz",
+        "email": "muhammdaziz@gmail.com",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "avatar": "http://localhost:3000/ava/1654523369903hamburger.jpg",
+        "userId": 6
+    },
+    {
+        "username": "khaliluloh",
+        "email": "test@gmail.com",
+        "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+        "avatar": "http://localhost:3000/ava/16545237715890219f3c8b9d8c4014ff682a18e3c5722.png",
+        "userId": 7
+    },
+    {
+        "username": "muhammadjon",
+        "email": "muhammadjonusmonov001@gmail.com",
+        "password": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225",
+        "avatar": "http://localhost:3000/ava/1654617682384Screenshot_6.png",
+        "userId": 8
+    }
+]
